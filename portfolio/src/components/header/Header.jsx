@@ -2,7 +2,7 @@ import React from 'react';
 import './header.css';
 import 'boxicons';
 // import CTA from './CTA';
-import CV from '../../assets/Rachana.P.pdf';
+import CV from '../../assets/Rachna.pdf';
 //import ME from '../../assets/me-coverdone-half.png';
 //import Headersocials from './Headersocials';
 import { Typewriter } from 'react-simple-typewriter';
